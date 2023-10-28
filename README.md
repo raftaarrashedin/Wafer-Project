@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 wafer_project
 ==============================
 
@@ -55,3 +56,6 @@ Project Organization
 --------
 
 <p><small>Project based on the <a target="_blank" href="https://drivendata.github.io/cookiecutter-data-science/">cookiecutter data science project template</a>. #cookiecutterdatascience</small></p>
+=======
+# Wafer-Project
+>>>>>>> 596a92f538fa569dd1577c17fc01b8b6004a2cde
