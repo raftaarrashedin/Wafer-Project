@@ -166,4 +166,8 @@ websocket-client==0.58.0
 Werkzeug==1.0.1
 xmltodict==0.12.0
 zc.lockfile==2.0
+<<<<<<< HEAD
 zipp==3.4.1
+=======
+zipp==3.4.1
+>>>>>>> 1239a1367558b70b6f7e10d7439ead5281e186e2
